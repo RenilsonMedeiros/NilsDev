@@ -1,6 +1,6 @@
 # NilsDev
- [dfgdg] Primeiro Repositório do  curso de Git e GitHub do Professor Gustavo Guanabara.
+ * Primeiro Repositório do  curso de Git e GitHub do Professor Gustavo Guanabara.
 
- [dfg] Repositório criado durante uma aula ao vivo!
+     - Repositório criado durante uma aula ao vivo!
  
- [dfg] Essa linha eu adicionei diretamente no site! Que IMPRESSIONANTE!
+     - Essa linha eu adicionei diretamente no site! Que IMPRESSIONANTE!
